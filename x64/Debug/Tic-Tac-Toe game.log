@@ -1,0 +1,12 @@
+﻿  Functions.c
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Functions.c(104,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Functions.c(105,39): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Functions.c(87,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Functions.c(88,1): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Functions.c(93,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Functions.c(94,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Source.c
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Source.c(41,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\Source.c(42,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Tic-Tac-Toe game.vcxproj -> C:\Users\succe\OneDrive\Desktop\Программирование C\Tic-Tac-Toe game\x64\Debug\Tic-Tac-Toe game.exe

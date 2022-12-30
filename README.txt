@@ -1,0 +1,1 @@
+Place SDL2 folder in drive C
